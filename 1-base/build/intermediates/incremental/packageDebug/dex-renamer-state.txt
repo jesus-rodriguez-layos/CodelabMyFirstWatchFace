@@ -1,0 +1,7 @@
+#Sun Feb 18 15:54:53 CET 2018
+base.0=C\:\\Users\\user-pc\\git\\CodelabMyFirstWatchFace\\1-base\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3927992d99555b0d085d108e91019a95c98c7b29
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\user-pc\\git\\CodelabMyFirstWatchFace\\1-base\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0b00f086717187833a3db8316282d797da5b51dd\\classes.dex
+base.1=C\:\\Users\\user-pc\\git\\CodelabMyFirstWatchFace\\1-base\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0b00f086717187833a3db8316282d797da5b51dd
+file.0=C\:\\Users\\user-pc\\git\\CodelabMyFirstWatchFace\\1-base\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3927992d99555b0d085d108e91019a95c98c7b29\\classes.dex

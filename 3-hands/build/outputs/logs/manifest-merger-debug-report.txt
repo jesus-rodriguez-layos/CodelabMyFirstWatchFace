@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\user-pc\git\CodelabMyFirstWatchFace\3-hands\src\main\AndroidManifest.xml:18:1-59:12
+	package
+		ADDED from C:\Users\user-pc\git\CodelabMyFirstWatchFace\3-hands\src\main\AndroidManifest.xml:20:5-44
+		INJECTED from C:\Users\user-pc\git\CodelabMyFirstWatchFace\3-hands\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user-pc\git\CodelabMyFirstWatchFace\3-hands\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\user-pc\git\CodelabMyFirstWatchFace\3-hands\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user-pc\git\CodelabMyFirstWatchFace\3-hands\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\user-pc\git\CodelabMyFirstWatchFace\3-hands\src\main\AndroidManifest.xml:19:5-51
+	xmlns:android
+		ADDED from C:\Users\user-pc\git\CodelabMyFirstWatchFace\3-hands\src\main\AndroidManifest.xml:18:11-69
+	android:versionCode
+		INJECTED from C:\Users\user-pc\git\CodelabMyFirstWatchFace\3-hands\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user-pc\git\CodelabMyFirstWatchFace\3-hands\src\main\AndroidManifest.xml
+uses-feature#android.hardware.type.watch
+ADDED from C:\Users\user-pc\git\CodelabMyFirstWatchFace\3-hands\src\main\AndroidManifest.xml:22:5-64
+	android:name
+		ADDED from C:\Users\user-pc\git\CodelabMyFirstWatchFace\3-hands\src\main\AndroidManifest.xml:22:19-61
+uses-permission#com.google.android.permission.PROVIDE_BACKGROUND
+ADDED from C:\Users\user-pc\git\CodelabMyFirstWatchFace\3-hands\src\main\AndroidManifest.xml:25:5-88
+	android:name
+		ADDED from C:\Users\user-pc\git\CodelabMyFirstWatchFace\3-hands\src\main\AndroidManifest.xml:25:22-85
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\user-pc\git\CodelabMyFirstWatchFace\3-hands\src\main\AndroidManifest.xml:26:5-68
+	android:name
+		ADDED from C:\Users\user-pc\git\CodelabMyFirstWatchFace\3-hands\src\main\AndroidManifest.xml:26:22-65
+application
+ADDED from C:\Users\user-pc\git\CodelabMyFirstWatchFace\3-hands\src\main\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.android.support:wearable:2.0.0] C:\Users\user-pc\.android\build-cache\445c75d47c4f7d92eb8a6e1f7aa3433b67ca8a43\output\AndroidManifest.xml:6:5-19
+MERGED from [com.android.support:percent:23.0.1] C:\Users\user-pc\.android\build-cache\e93a0a5bfe63f4f8164c8c6b99debef3b255f895\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:10.2.1] C:\Users\user-pc\.android\build-cache\4eafcde204b1dccea72b2526bf886ab16e9eb165\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\user-pc\.android\build-cache\40c0b44d1d10940a433b2f7cda9b938348a3af80\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\user-pc\.android\build-cache\6b1fb77d313d4b2068117a4645470a973c24601f\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\user-pc\.android\build-cache\f12cd49fc5a4303ab11d0f78340df8f89597904e\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\user-pc\.android\build-cache\95c48bd3ace31b24c7e1fc2c8488ec1c0f604d79\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\user-pc\git\CodelabMyFirstWatchFace\3-hands\src\main\AndroidManifest.xml:30:9-41
+	tools:ignore
+		ADDED from C:\Users\user-pc\git\CodelabMyFirstWatchFace\3-hands\src\main\AndroidManifest.xml:32:9-46
+	android:allowBackup
+		ADDED from C:\Users\user-pc\git\CodelabMyFirstWatchFace\3-hands\src\main\AndroidManifest.xml:29:9-35
+	android:theme
+		ADDED from C:\Users\user-pc\git\CodelabMyFirstWatchFace\3-hands\src\main\AndroidManifest.xml:31:9-59
+service#com.android.example.watchface.MyWatchFaceService
+ADDED from C:\Users\user-pc\git\CodelabMyFirstWatchFace\3-hands\src\main\AndroidManifest.xml:33:9-52:19
+	android:label
+		ADDED from C:\Users\user-pc\git\CodelabMyFirstWatchFace\3-hands\src\main\AndroidManifest.xml:35:13-51
+	android:permission
+		ADDED from C:\Users\user-pc\git\CodelabMyFirstWatchFace\3-hands\src\main\AndroidManifest.xml:36:13-67
+	android:name
+		ADDED from C:\Users\user-pc\git\CodelabMyFirstWatchFace\3-hands\src\main\AndroidManifest.xml:34:13-47
+meta-data#android.service.wallpaper
+ADDED from C:\Users\user-pc\git\CodelabMyFirstWatchFace\3-hands\src\main\AndroidManifest.xml:37:13-39:54
+	android:resource
+		ADDED from C:\Users\user-pc\git\CodelabMyFirstWatchFace\3-hands\src\main\AndroidManifest.xml:39:17-51
+	android:name
+		ADDED from C:\Users\user-pc\git\CodelabMyFirstWatchFace\3-hands\src\main\AndroidManifest.xml:38:17-57
+meta-data#com.google.android.wearable.watchface.preview
+ADDED from C:\Users\user-pc\git\CodelabMyFirstWatchFace\3-hands\src\main\AndroidManifest.xml:40:13-42:63
+	android:resource
+		ADDED from C:\Users\user-pc\git\CodelabMyFirstWatchFace\3-hands\src\main\AndroidManifest.xml:42:17-60
+	android:name
+		ADDED from C:\Users\user-pc\git\CodelabMyFirstWatchFace\3-hands\src\main\AndroidManifest.xml:41:17-77
+meta-data#com.google.android.wearable.watchface.preview_circular
+ADDED from C:\Users\user-pc\git\CodelabMyFirstWatchFace\3-hands\src\main\AndroidManifest.xml:43:13-45:63
+	android:resource
+		ADDED from C:\Users\user-pc\git\CodelabMyFirstWatchFace\3-hands\src\main\AndroidManifest.xml:45:17-60
+	android:name
+		ADDED from C:\Users\user-pc\git\CodelabMyFirstWatchFace\3-hands\src\main\AndroidManifest.xml:44:17-86
+intent-filter#android.service.wallpaper.WallpaperService+com.google.android.wearable.watchface.category.WATCH_FACE
+ADDED from C:\Users\user-pc\git\CodelabMyFirstWatchFace\3-hands\src\main\AndroidManifest.xml:47:13-51:29
+action#android.service.wallpaper.WallpaperService
+ADDED from C:\Users\user-pc\git\CodelabMyFirstWatchFace\3-hands\src\main\AndroidManifest.xml:48:17-85
+	android:name
+		ADDED from C:\Users\user-pc\git\CodelabMyFirstWatchFace\3-hands\src\main\AndroidManifest.xml:48:25-82
+category#com.google.android.wearable.watchface.category.WATCH_FACE
+ADDED from C:\Users\user-pc\git\CodelabMyFirstWatchFace\3-hands\src\main\AndroidManifest.xml:50:17-102
+	android:name
+		ADDED from C:\Users\user-pc\git\CodelabMyFirstWatchFace\3-hands\src\main\AndroidManifest.xml:50:27-99
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\user-pc\git\CodelabMyFirstWatchFace\3-hands\src\main\AndroidManifest.xml:54:9-56:69
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\user-pc\.android\build-cache\f12cd49fc5a4303ab11d0f78340df8f89597904e\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from C:\Users\user-pc\git\CodelabMyFirstWatchFace\3-hands\src\main\AndroidManifest.xml:56:13-66
+	android:name
+		ADDED from C:\Users\user-pc\git\CodelabMyFirstWatchFace\3-hands\src\main\AndroidManifest.xml:55:13-58
+uses-sdk
+INJECTED from C:\Users\user-pc\git\CodelabMyFirstWatchFace\3-hands\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.support:wearable:2.0.0] C:\Users\user-pc\.android\build-cache\445c75d47c4f7d92eb8a6e1f7aa3433b67ca8a43\output\AndroidManifest.xml:4:5-72
+MERGED from [com.android.support:percent:23.0.1] C:\Users\user-pc\.android\build-cache\e93a0a5bfe63f4f8164c8c6b99debef3b255f895\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.0.1] C:\Users\user-pc\.android\build-cache\3b4a59c4aaa8512111e1bac0dbc856335dec2d38\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-wearable:10.2.1] C:\Users\user-pc\.android\build-cache\4eafcde204b1dccea72b2526bf886ab16e9eb165\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\user-pc\.android\build-cache\40c0b44d1d10940a433b2f7cda9b938348a3af80\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\user-pc\.android\build-cache\6b1fb77d313d4b2068117a4645470a973c24601f\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\user-pc\.android\build-cache\f12cd49fc5a4303ab11d0f78340df8f89597904e\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\user-pc\.android\build-cache\95c48bd3ace31b24c7e1fc2c8488ec1c0f604d79\output\AndroidManifest.xml:21:5-23:54
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.0.0] C:\Users\user-pc\.android\build-cache\95c48bd3ace31b24c7e1fc2c8488ec1c0f604d79\output\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from C:\Users\user-pc\git\CodelabMyFirstWatchFace\3-hands\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user-pc\git\CodelabMyFirstWatchFace\3-hands\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\user-pc\git\CodelabMyFirstWatchFace\3-hands\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user-pc\git\CodelabMyFirstWatchFace\3-hands\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\user-pc\.android\build-cache\40c0b44d1d10940a433b2f7cda9b938348a3af80\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\user-pc\.android\build-cache\40c0b44d1d10940a433b2f7cda9b938348a3af80\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\user-pc\.android\build-cache\40c0b44d1d10940a433b2f7cda9b938348a3af80\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\user-pc\.android\build-cache\40c0b44d1d10940a433b2f7cda9b938348a3af80\output\AndroidManifest.xml:19:19-85
